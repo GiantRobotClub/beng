@@ -1,0 +1,1 @@
+$server='us.nightstar.net';
